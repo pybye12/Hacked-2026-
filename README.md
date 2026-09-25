@@ -1,6 +1,6 @@
-# SkillSync
+# Career Co-Pilot
 
-SkillSync helps you find relevant jobs, tailor your resume, and apply with AI assistance while you stay in control.
+Career Co-Pilot helps you find relevant jobs, tailor your resume, and apply with AI assistance while you stay in control.
 
 ## Install (First)
 
